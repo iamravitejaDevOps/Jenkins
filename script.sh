@@ -1,3 +1,3 @@
 #!/bin/bash
 env=$1
-echo "Hello am checked in $env stage"
+echo "Hello am checked in $env stages"
